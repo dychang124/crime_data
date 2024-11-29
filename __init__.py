@@ -1,0 +1,5 @@
+__title__ = "crime_test"
+__description__ = "Crime Data function package"
+__version__ = "0.1"  
+__author__ = "Daniel Chang"
+__author_email__ = "daniel.y.chang@sjsu.edu"
